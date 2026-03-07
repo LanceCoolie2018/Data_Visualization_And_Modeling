@@ -1,0 +1,15 @@
+Model Name,Country of Origin,Developed By,Attack Type,Maximum Speed,Range (km), Engine,Propellant,Launch Platform
+3M22 Zircon,Russia,NPO Mashinostroyeniya,"Hypersonic cruise missile, Anti-ship missile, Submarine-launched cruise missile, Land-attack missile",Mach 9,1000,Scramjet,Liquid,"Submarine, ship"
+Kh-47M2 Kinzhal,Russia,"Votkinsk Plant State Production Association, JSC",Hypersonic air-launched ballistic missile,Mach 10,2000,Solid-propellant,"Solid, oxidizer",Aircraft
+R-37,Russia,JSC,Hypersonic air-to-air,Mach 6,400,Boost-Sustain Solid,"Solid, oxidizer",Aircraft
+BrahMos-II,"India, Russia","Defence Research and Development Organisation, NPO Mashinostroyenia, BrahMos Aerospace Limited","Hypersonic cruise missile, Air-launched cruise missile, Anti-ship missile, Land-attack missile, Surface-to-surface missile",Mach 8,1500,Scramjet,Air,"Ship, submarine, aircraft, mobile launchers"
+Shaurya,India,"Research Centre Imarat (DRDO), Bharat Dynamics Limited",Hypersonic surface-to-surface missile,Mach 7.5,1900,Two-stage solid,Solid,"Canisterised transporter erector launcher, silo"
+Kh-90 GELA,Russia,"MKB Raduga, Turaevo TMKB Soyuz, TsAGI",Air-launched air-to-surface,Mach 5+,4000,booster with Ramjet Raduga TMKB Soyuz TsAGI,"solid propellant booster, liquid ramjet (or scramjet), kerosene","Aircraft, ship"
+YJ-21,China,Unspecific,Hypersonic sea-based anti-ship ballistic missile,Mach 10,1500,Solid rocket,Solid,Ship
+DF-21,China,China Changfeng Mechanics and Electronics Technology Academy,Intermediate-range Ballistic missile,Mach 10,1770,Solid fuel,"Solid, oxidizer",Mobile launcher
+DF-41,China,China Academy of Launch Vehicle Technology,Intercontinental ballistic missile,Mach 25,15000,Three-stage Solid-fuel rocket,"Solid, oxidizer","Silo, road-mobile Transporter erector launcher, rail-mobile"
+Fattah-1,Iran,Islamic Revolutionary Guard Corps,Hypersonic medium-range ballistic missile,Mach 15,1400,Solid fuel,Solid,Mobile launcher
+Arrow 3,Israel,"Israel Aerospace Industries, Boeing",Exoatmospheric hypersonic anti-ballistic missile,Mach 5,2400,Two-stage,"Solid, oxidizer",Silo
+Hwasong-12,North Korea,,Hypersonic mobile intercontinental ballistic missile,Mach 17,6000,Liquid-propellant,"single chamber variant of Paektusan, Liquid",MAZ-based vehicle
+Mako,United States,Lockheed Martin,Hypersonic standoff anti-ship missile,Mach 5+,350,Solid fuel,"Solid, oxidizer","Aircraft, ship"
+Hypersonic Attack Cruise Missile,United States,"RTX Corporation, Northrop Grumman",Hypersonic air-launched cruise missile,Mach 8,1900,Scramjet,Oxidizer,Aircraft
